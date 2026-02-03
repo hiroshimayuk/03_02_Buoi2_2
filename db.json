@@ -24,7 +24,14 @@
     {
       "title": "ehehehehe",
       "views": "100",
-      "id": "5"
+      "id": "5",
+      "isDeleted": true
+    },
+    {
+      "id": "6",
+      "title": "hung",
+      "views": "1111",
+      "isDeleted": false
     }
   ],
   "comments": [
